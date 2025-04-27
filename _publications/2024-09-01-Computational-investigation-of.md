@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-09-01-Computational-investigation-of.md
 excerpt: 'Recent clinical studies have reported that heart failure with preserved ejection fraction (HFpEF) can be divided into two phenotypes based on the range of ejection fraction (EF), namely HFpEF with higher EF and HFpEF with lower EF.'
-date: 2015-10-01
+date: 2024-09-01
 venue: 'Computers in Biology and Medicine'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0010482524011041'
