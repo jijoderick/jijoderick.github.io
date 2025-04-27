@@ -25,7 +25,7 @@ author:
   avatar           : "Jijo_27_04_25.jpeg" # "profile.png"
   name             : "Jijo Derick Abraham" #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in computational cardiac mechanics @ University of Queensland and Indian Institute of Technology Delhi Research Academy"
+  bio              : "PhD student in computational cardiac mechanics @ UQ IIT-D Research Academy""
   location         : "NewDelhi, India" #"Earth"
   employer         : "IIT Delhi" #"Your Employer"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
