@@ -2,7 +2,7 @@
 title: "Computational investigation of the role of ventricular remodelling in HFpEF: The key to phenotype dissection"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-09-01-Computational-investigation-of.md
+permalink: /publication/2024-09-01-Jn-Computational-investigation-of.md
 excerpt: 'Recent clinical studies have reported that heart failure with preserved ejection fraction (HFpEF) can be divided into two phenotypes based on the range of ejection fraction (EF), namely HFpEF with higher EF and HFpEF with lower EF.'
 date: 2024-09-01
 venue: 'Computers in Biology and Medicine'

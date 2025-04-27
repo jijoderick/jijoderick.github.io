@@ -2,7 +2,7 @@
 title: "Experimental and numerical investigations for effect of longitudinal splitter plate configuration for thermal-hydraulic performance of staggered tube bank"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-08-13-Experimental-and-numerical.md
+permalink: /publication/2020-08-13-Jn-Experimental-and-numerical.md
 excerpt: 'The use of fins for the passive mode of heat transfer enhancement is being used since decades. The use of fin increases the rate of heat transfer by increasing the effective area available for the energy exchange. '
 date: 2020-08-13
 venue: 'International Journal of Heat and Mass Transfer'
