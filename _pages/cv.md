@@ -11,35 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational cardiac mechanics, UQ - IIT Delhi, 2025 (thesis submission within 2 months)
+* MTech in Heat Power Engineering, VNIT Nagpur, 2019
+* BTech in Mechanical Enginering, CUSAT, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019-20: Junior Research Fellow
+  * VNIT Nagpur
+  * Work: Fluid structure interaction solver development
+  * Supervisor: Dr Trushar B Gohil
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computationacl cardiac mechanics
+* Computationacl fluid mechanics
+  * Finite volume method
+  * Fluid structure interaction
+  * Lattice Boltzman method
+  * RANS modelling
+  * comptutational heat transfer
+* Finite element method
+* Scientific computing
+* Opensource softwares
+  * FEniCS
+  * svFSI
+  * OpenFOAM
+  * TCLB
+* Programing languages
+  * Python
+  * C
+  * Fortran
+  * C++
 
 Publications
 ======
@@ -61,4 +66,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer in Applied Thermal Engineering, Elsevier.
+
