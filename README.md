@@ -150,6 +150,10 @@ bundle exec jekyll build --clean
 bundle exec jekyll serve
 ```
 
+Once working fine the server address can be seen in the terminal.   
+Open the same in local browser and preview the website.
+
+
 
 ## Using Docker
 
