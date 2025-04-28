@@ -11,7 +11,7 @@ redirect_from:
 
 <img src="/images/jijo.png" width="380px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 
-I am a final year joint PhD student at the [university of Queensland and Indian institute of technology Delhi, reserach academy (UQIDRA)](https://uqiitd.org/). My PhD reserach focus on the understanding the underlying mechanics of heart failure with preserved ejection fraction (HFpEF) using continum mechanics based computational methods. I use [FENiCS](https://fenicsproject.org) based in-house finite element solver developed by the computational biomechanics group of [Prof Lik Chuan Lee](https://engineering.msu.edu/faculty/Lik-Chuan-Lee), Department of Mechanical Engineering, Michigian State University, USA. 
+I am a final year joint PhD student at the [university of Queensland and Indian institute of technology Delhi, reserach academy (UQIDRA)](https://uqiitd.org/). My PhD reserach focus on the understanding the underlying mechanics of heart failure with preserved ejection fraction (HFpEF) using continum mechanics based computational methods. I use [FENiCS](https://fenicsproject.org) based in-house finite element solver provided by my expert colloborators  [Prof Lik Chuan Lee](https://engineering.msu.edu/faculty/Lik-Chuan-Lee), MSU, USA and [Prof Sheikh Mohammad Shavik](https://me.buet.ac.bd/faculty/dr-sheikh-mohammad-shavik) BUET.
 
 
 I am about to submit my thesis within two months. Hence, I will be open for suitable post-doc positions.
