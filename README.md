@@ -54,6 +54,103 @@ When you are initially working on your website, it is very useful to be able to 
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
+## Running locally  in ubuntu 18.02 (Jijo notes)
+
+Installing the bundle 
+```
+sudo apt install ruby-dev ruby-bundler nodejs
+```
+
+check the bundle version 
+```
+bundle --version
+```
+
+try installing the bundle. But some times you may encounter the following error   
+```
+bundle install
+Fetching gem metadata from https://rubygems.org/..........
+Fetching gem metadata from https://rubygems.org/.
+Resolving dependencies.....................................................................................................................................................................................................................................................................................
+ffi-1.17.2-x86_64-linux-musl requires rubygems version >= 3.3.22, which is incompatible with the current version, 2.7.6
+```
+
+In that case first check the default gem version 
+
+```
+gem --version
+```
+
+If the version is older than 3.3.22. Then have to install the new version  
+```
+sudo apt update
+sudo apt install -y git curl libssl-dev libreadline-dev zlib1g-dev build-essential
+curl -fsSL https://github.com/rbenv/rbenv-installer/raw/main/bin/rbenv-installer | bash
+```
+
+Also we can add the path to bashrc
+```
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"
+```
+
+and reload the terminal
+```
+exec $SHELL
+```
+
+```rbenv install -l
+3.1.7
+3.2.8
+3.3.8
+3.4.3
+jruby-10.0.0.0
+mruby-3.3.0
+picoruby-3.0.0
+truffleruby-24.2.0
+truffleruby+graalvm-24.2.0
+
+Only latest stable releases for each Ruby implementation are shown.
+Use rbenv install --list-all' to show all local versions.
+```
+
+```
+rbenv install 3.2.8
+
+```
+
+If the installation is correct
+```
+bundle install
+```
+
+```
+bundle exec jekyll serve
+```
+
+May be we might error that the nokogiri is missing
+```
+gem install nokogiri --platform=ruby
+```
+
+Force Nokogiri to Use Ruby Platform Gem in Bundler
+```
+bundle config set force_ruby_platform true
+```
+
+Now bundle again
+```
+bundle install
+bundle exec jekyll serve
+```
+# After installation of the bundle
+Clear cache
+```
+bundle exec jekyll build --clean
+bundle exec jekyll serve
+```
+
+
 ## Using Docker
 
 Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
