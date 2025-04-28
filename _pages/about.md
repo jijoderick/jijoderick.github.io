@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 
-<img src="/images/Jijo.png" width="380px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
+<img src="/images/Jijo.jpg" width="380px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 
 I am a final year joint PhD student at the [university of Queensland and Indian institute of technology Delhi, reserach academy (UQIDRA)](https://uqiitd.org/). My PhD reserach focus on the understanding the underlying mechanics of heart failure with preserved ejection fraction (HFpEF) using continum mechanics based computational methods. I use [FENiCS](https://fenicsproject.org) based in-house finite element solver provided by my expert colloborators  [Prof Lik Chuan Lee](https://engineering.msu.edu/faculty/Lik-Chuan-Lee), MSU, USA and [Prof Sheikh Mohammad Shavik](https://me.buet.ac.bd/faculty/dr-sheikh-mohammad-shavik) BUET.
 
