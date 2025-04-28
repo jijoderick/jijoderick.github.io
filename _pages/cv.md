@@ -26,8 +26,8 @@ Work experience
   
 Skills
 ======
-* Computationacl cardiac mechanics
-* Computationacl fluid mechanics
+* Computational cardiac mechanics
+* Computational fluid mechanics
   * Finite volume method
   * Fluid structure interaction
   * Lattice Boltzman method
