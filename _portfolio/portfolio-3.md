@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "My drawing"
+excerpt: 'Covid vaccination <br/> <img src="/images/drawing/Draw-3.jpeg"  style="transform: rotate(0deg) scale(0.7);">'
 collection: portfolio
 ---
 
