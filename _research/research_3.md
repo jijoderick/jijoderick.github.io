@@ -6,7 +6,7 @@ collection: research
 
 <img src="/images/research/Biventricle_schematic_diagram.png" width="380px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 Research type: PhD thesis work   
-Advisor: Prof. Christopher Leonardi, Prof. Bahni Ray and Prof. Travis Mitchell  
+Advisors: Prof. Christopher Leonardi, Prof. Bahni Ray and Prof. Travis Mitchell  
 Colloborators: Prof. Sheikh Mohammad Shavik and Pof. Lik Chuan Lee
 - Modified a computational framework consisting of a finite element (FE) model of the ventricle coupled with a
 zero-dimensional model of the closed-loop systemic circulatory system. The framework was built using the
