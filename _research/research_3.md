@@ -20,7 +20,7 @@ clinical literature.
 - Investigated the role of HFpEF pathophysiological factors such as myocardial stiffening, contractile dysfunction,
 ventricular remodelling, right ventricular dysfunction and pulmonary hypertension in HFpEF prognosis.
 
-Research outputs
+Publications outcomes
 - Abraham, J. D., Shavik, S. M., Mitchell, T. R., Lee, L. C., Ray, B., & Leonardi, C. R. (2024).
 “Computational investigation of the role of ventricular remodelling in HFpEF: The key to phenotype
 dissection.” Computers in Biology and Medicine, 180, 109019.(link)

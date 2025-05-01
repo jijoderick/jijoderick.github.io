@@ -9,7 +9,7 @@ Research type: Junior Research Fellowship work
 Advisor: Prof Trushar B Gohil  
  - The project was funded by the Department of Science and Technology (DST) and the Science and Engineering
 Research Board (SERB), Government of India.   
- 
+
 Contributions 
 - Implemented the hyperelastic material models, namely, Neo Hookean and Mooney Rivlin models, in the foam
 extended version of open-source computational fluid dynamics (CFD) solver openFOAM.
@@ -17,7 +17,7 @@ extended version of open-source computational fluid dynamics (CFD) solver openFO
 patient-specific geometry.
 
 
-Research output
+Publications outcomes
 - Abraham, J. D., Chanikya, V., Jaiswal, R., & Gohil, T. B. & Chamoli, S. (2020). “Fluid-Structure
 Interaction (FSI) analysis of flow-through three-dimensional hyperelastic flexible tube using OpenFOAM.”
 Proceedings of 8th and 47th National Conference on Fluid Mechanics and Fluid Power Conference, held at IIT
