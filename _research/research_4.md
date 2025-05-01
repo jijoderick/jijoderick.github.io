@@ -5,7 +5,7 @@ collection: research
 ---
 
 <img src="/images/research/JRF_work.png" width="380px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
-Research type: Junior Research Fellowship work 
+Research type: Junior Research Fellowship work    
 Advisor: Prof Trushar B Gohil  
  - The project was funded by the Department of Science and Technology (DST) and the Science and Engineering
 Research Board (SERB), Government of India.   
