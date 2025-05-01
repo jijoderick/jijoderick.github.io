@@ -1,6 +1,6 @@
 ---
 title: "My drawing"
-excerpt: 'Market after covid-19 <br/> <img src="/images/drawing/Draw-1.jpeg" tyle="transform: scale(0.4);">' 
+excerpt: 'Market after covid-19 <br/> <img src="/images/drawing/Draw-1.jpeg" style="transform: rotate(0deg) scale(0.7);">' 
 collection: portfolio
 ---
 
