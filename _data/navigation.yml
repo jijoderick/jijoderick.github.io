@@ -10,7 +10,7 @@
 main:
   - title: "Research"
     url: /research/ 
-    
+
   - title: "Publications"
     url: /publications/
 
@@ -22,8 +22,11 @@ main:
 
 
 
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
+
+  - title: "Drawings"
+    url: /drawings/
 
   #- title: "Blog Posts"
   #  url: /year-archive/
