@@ -10,4 +10,3 @@ venue: 'Proceedings of 8th International and 47th National Conference on Fluid M
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 authors : 'JD Abraham, V Chanikya, R Jaiswal, TB Gohil'
 ---
-

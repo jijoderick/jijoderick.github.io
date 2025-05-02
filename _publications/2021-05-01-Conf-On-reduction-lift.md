@@ -11,3 +11,4 @@ paperurl: 'https://iopscience.iop.org/article/10.1088/1757-899X/1146/1/012020/me
 authors : 'Uddhav S Pagar, Jijo Derick Abraham, Trushar B Gohil'
 ---
 
+Link to the paper: [https://iopscience.iop.org/article/10.1088/1757-899X/1146/1/012020/meta](https://iopscience.iop.org/article/10.1088/1757-899X/1146/1/012020/meta)

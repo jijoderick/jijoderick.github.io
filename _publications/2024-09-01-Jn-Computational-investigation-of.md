@@ -12,4 +12,6 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S0010482524011041'
 authors : 'Jijo Derick Abraham, Sheikh Mohammad Shavik, Travis R Mitchell, Lik Chuan Lee, Bahni Ray, Christopher R Leonardi'
 ---
 
-Recent clinical studies have reported that heart failure with preserved ejection fraction (HFpEF) can be divided into two phenotypes based on the range of ejection fraction (EF), namely HFpEF with higher EF and HFpEF with lower EF. These phenotypes exhibit distinct left ventricle (LV) remodelling patterns and dynamics. However, the influence of LV remodelling on various LV functional indices and the underlying mechanics for these two phenotypes are not well understood.
+Recent clinical studies have reported that heart failure with preserved ejection fraction (HFpEF) can be divided into two phenotypes based on the range of ejection fraction (EF), namely HFpEF with higher EF and HFpEF with lower EF. These phenotypes exhibit distinct left ventricle (LV) remodelling patterns and dynamics. However, the influence of LV remodelling on various LV functional indices and the underlying mechanics for these two phenotypes are not well understood.   
+
+Link to the paper: [https://www.sciencedirect.com/science/article/pii/S0010482524011041](https://www.sciencedirect.com/science/article/pii/S0010482524011041)
