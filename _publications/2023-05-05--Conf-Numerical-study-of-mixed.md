@@ -2,7 +2,7 @@
 title: "Numerical study of mixed convection conjugate heat transfer in a lid-driven skew cavity with bottom thick wall using OpenFOAM"
 collection: publications
 category: conferences
-permalink: /publication/2023-05-05--Conf-Numerical-study-of-mixed.md
+permalink: /publication/2023-05-05--Conf-Numerical-study-of-mixed
 excerpt: 'The present parametric study focuses on the mixed convection conjugate heat transfer in a differentially heated lid-driven skew cavity with a thick bottom wall. The bottom wall of the solid is isothermally heated.'
 date: 20023-05-05
 venue: 'AIP Conference Proceedings'

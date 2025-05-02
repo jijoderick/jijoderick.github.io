@@ -2,7 +2,7 @@
 title: "Computational Analysis of Vortex – Induced Vibration of an Isolated Diamond Cylinder"
 collection: publications
 category: conferences
-permalink: /publication/2018-12-12-Conf-Computational-analysis-of.md
+permalink: /publication/2018-12-12-Conf-Computational-analysis-of
 #excerpt: 'The use of passive mode of heat transfer enhancement are most commonly used for the performance improvement with conservation of conventional fuels.'
 date: 2018-12-12
 venue: 'Proceedings of 7th International and 45th National Conference on Fluid Mechanics and Fluid Power (FMFP), IIT Bombay, 10-12 December 2018'

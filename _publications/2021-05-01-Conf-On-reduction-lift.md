@@ -2,7 +2,7 @@
 title: "On reducing lift and drag forces of a stationary circular cylinder using side-by-side pair of inward rotating cylinders"
 collection: publications
 category: conferences
-permalink: /publication/2021-05-01-Conf-On-reduction-lift.md
+permalink: /publication/2021-05-01-Conf-On-reduction-lift
 excerpt: 'Effect of side-by-side pair of inwardly rotating circular cylinders on the nature of drag and lift forces of the stationary circular cylinder is numerically investigated for Reynolds number Re= 100.'
 date: 2021-05-01
 venue: 'IOP Conference Series: Materials Science and Engineering'

@@ -2,7 +2,7 @@
 title: "Numerical analysis for thermo-hydraulic performance of staggered cross flow tube bank with longitudinal tapered fins"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-08-13-Jn-Experimental-and-numerical.md
+permalink: /publication/2020-08-13-Jn-Experimental-and-numerical
 excerpt: 'Cross flow tube bank is an important constituent in most of the industrial heat exchanging systems such as Heating Ventilation and Air Conditioning (HVAC) systems, Waste Heat Recovery systems and Industrial Boilers.'
 date: 2020-11-01
 venue: 'International Communications in Heat and Mass Transfer'

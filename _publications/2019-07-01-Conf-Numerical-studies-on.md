@@ -2,7 +2,7 @@
 title: "Numerical studies on the near wall y+ effect on heat and flow characteristics of the cross flow tube bank"
 collection: publications
 category: conferences
-permalink: /publication/2019-07-01-Conf-Numerical-studies-on.md
+permalink: /publication/2019-07-01-Conf-Numerical-studies-on
 excerpt: 'The use of passive mode of heat transfer enhancement are most commonly used for the performance improvement with conservation of conventional fuels.'
 date: 2019-07-01
 venue: 'Journal of Physics: Conference Series'

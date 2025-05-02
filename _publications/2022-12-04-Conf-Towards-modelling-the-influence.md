@@ -2,7 +2,7 @@
 title: "Towards modelling the influence of myocardium stiffening on ventricular hemodynamics and its associated impact on HFpEF"
 collection: publications
 category: conferences
-permalink: /publication/2022-12-04-Conf-Towards-modelling-the-influence.md
+permalink: /publication/2022-12-04-Conf-Towards-modelling-the-influence
 #excerpt: 'The use of passive mode of heat transfer enhancement are most commonly used for the performance improvement with conservation of conventional fuels.'
 date: 2022-12-04
 venue: 'Proceedings of the 23rd Australasian Fluid Mechanics Conference, University of Sydney, Australia, 4 – 8th December 2022'
