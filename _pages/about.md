@@ -19,7 +19,7 @@ I am about to submit my thesis within two months (by May/June 2025). Hence, I wi
 Research Areas
 ======
 Computational cardiac mechanics, finite element modelling, Computational fluid dyananimics,
-Fluid structure interaction, lattice Boltzmann method, heat transfer.
+Fluid structure interaction, lattice Boltzmann method, heat transfer, FEniCS and OpenFOAM.
  
 Short bio
 ======
