@@ -12,4 +12,4 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S0735193320304334'
 authors : 'Jijo Derick Abraham, Ashwinkumar S Dhoble, Chidanand K Mangrulkar'
 ---
 
-ross flow tube bank is an important constituent in most of the industrial heat exchanging systems such as Heating Ventilation and Air Conditioning (HVAC) systems, Waste Heat Recovery systems and Industrial Boilers. Considering the depletion of fossil fuels and allied environmental concerns, there is a huge need for improving the performance of the cross flow tube bank. The present numerical study investigates the effect of longitudinal taper fins on external flow over staggered cross flow tube bank.
+Cross flow tube bank is an important constituent in most of the industrial heat exchanging systems such as Heating Ventilation and Air Conditioning (HVAC) systems, Waste Heat Recovery systems and Industrial Boilers. Considering the depletion of fossil fuels and allied environmental concerns, there is a huge need for improving the performance of the cross flow tube bank. The present numerical study investigates the effect of longitudinal taper fins on external flow over staggered cross flow tube bank.
