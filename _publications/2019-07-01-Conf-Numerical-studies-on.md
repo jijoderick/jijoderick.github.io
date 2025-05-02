@@ -12,3 +12,6 @@ authors : 'CK Mangrulkar, JD Abraham, AS Dhoble'
 ---
 
 The use of passive mode of heat transfer enhancement are most commonly used for the performance improvement with conservation of conventional fuels. In recent times, to visualize the insight of fluid flow analysis, the numerical simulations are mostly preferred. The number of grid points present in the in the fluid domain near the wall governs the accuracy and precision of the numerical study.
+
+Link to the paper: [https://iopscience.iop.org/article/10.1088/1742-6596/1240/1/012110/meta](https://iopscience.iop.org/article/10.1088/1742-6596/1240/1/012110/meta)
+
