@@ -1,5 +1,5 @@
 ---
-title: "Summer school on Computational Fluid Dynamics with OpenFOAM"
+title: "Summer school on computational fluid fynamics with OpenFOAM"
 collection: teaching 
 type: "Teaching Assistant"
 permalink: /teaching/2020-VNIT-OpenFOAM-summerschool
