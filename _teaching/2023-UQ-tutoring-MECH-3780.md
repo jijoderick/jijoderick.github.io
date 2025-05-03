@@ -9,7 +9,7 @@ location: "Brisbane, Australia"
 url: "https://my.uq.edu.au/programs-courses/course.html?course_code=MECH3780&offer=53544c554331494e"
 ---
 - Course type: Undergraduate level course  
-- Course cordinator: Dr Christopher Leonardi  
+- Course cordinator: [Dr Christopher Leonardi](https://about.uq.edu.au/experts/2881) 
 - Handled computer labs for simulating computational fluid dynamics (CFD) problems using ANSYS Fluent.
 
 

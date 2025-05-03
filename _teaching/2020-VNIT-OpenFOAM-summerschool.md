@@ -9,7 +9,7 @@ location: " India"
 ---
 
 - Course type: Graduate level course
-- Course cordinator: Dr Trushar B. Gohil
+- Course cordinator: [Dr Trushar B. Gohil](https://vnit.ac.in/engineering/mech/dr-trushar-b-gohil/)
 - Assistant in handling illustrations and doubt clearing sessions of CFD simulations and solver development using OpenFOAM.
 
 Heading 1
