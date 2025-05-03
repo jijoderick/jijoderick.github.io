@@ -65,7 +65,19 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>   
+
+Awards and Honors
+======
+* Certificate of appreciation in research story competition, organised by the research scholar forum (RSF), IIT Delhi, in September 2024.
+* Research Scholar Award, by IIT Delhi, covering expenses for attending 26th International Congress of Theoretical and Applied Mechanics, Daegu, South Korea, 25– 30th  August 2024.
+* Best presenter award, in higher degree by research conference organised by the school of mechanical and mining engineering, The University of Queensland, in May 2023.
+* Australasian Fluid Mechanics Society (AFMS) Student Participation Award: The award provided registration fee waiver (700 AUD) to the 24th Australasian Fluid Mechanics Conference (AFMC) held at the University of Sydney from 4 to 8th December 2022.
+* Institute medal and academic excellence award for securing the highest CGPA in the university for the master of Technology degree in heat power engineering, in September 2019.
+* Ministry of Human Resource Development (MHRD), scholarship for master's studies based on the performance in Graduate Aptitude Test (GATE) 2017.
+* Fifth rank from Cochin University of Science and Technology, for the Bachelor of Technology degree in mechanical engineering, in April 2016.
+* Ministry of Minority Affairs scholarship for bachelor's studies based on the performance in the higher secondary school examinations 2012.
+
   
 Service and leadership
 ======
