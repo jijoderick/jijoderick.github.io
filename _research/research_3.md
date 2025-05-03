@@ -17,7 +17,7 @@ open-source FE solver [FEniCS](https://fenicsproject.org/).
 used to investigate the mechanics of HFpEF exercise intolerance.
 - Calibrated the computational approach to reproduce cardiac performance indices of control patients reported in the
 clinical literature.
-- Investigated the role of HFpEF pathophysiological factors such as myocardial stiffening, contractile dysfunction,
+- Investigated the role of pathophysiological factors such as myocardial stiffening, contractile dysfunction,
 ventricular remodelling, right ventricular dysfunction and pulmonary hypertension in HFpEF prognosis.
 
 Publication outcomes
