@@ -1,6 +1,6 @@
 ---
 title: "Numerical study on thermo-hydraulic performance of cross flow tube bank with longitudinal fins"
-excerpt: "Masters thesis <br/><img src='/images/research/Masterswork.jpg' style='width:300px;'>" 
+excerpt: "Masters thesis work <br/><img src='/images/research/Masterswork.jpg' style='width:300px;'>" 
 collection: research
 ---
 
