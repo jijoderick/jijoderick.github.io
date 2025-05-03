@@ -23,7 +23,7 @@ Work experience
 * 2019-20: Junior Research Fellow
   * VNIT Nagpur
   * Work: Fluid structure interaction solver development
-  * Supervisor: Dr Trushar B Gohil
+  * Supervisor: [Prof. Trushar B Gohil](https://vnit.ac.in/engineering/mech/dr-trushar-b-gohil/)
 
 
   
@@ -39,10 +39,10 @@ Skills
 * Finite element method
 * Scientific computing
 * Opensource softwares
-  * FEniCS
-  * svFSI
-  * OpenFOAM
-  * TCLB
+  * [FEniCS](https://fenicsproject.org/)
+  * [svFSI](https://github.com/SimVascular/svFSI)
+  * [OpenFOAM](https://www.openfoam.com/)
+  * [TCLB](https://tclb.io/about/)
 * Programing languages
   * Python
   * C
@@ -69,5 +69,5 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer in Applied Thermal Engineering, Elsevier.
+* Reviewer in [Applied Thermal Engineering, Elsevier](https://www.sciencedirect.com/journal/applied-thermal-engineering).
 
