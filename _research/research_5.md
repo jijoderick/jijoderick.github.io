@@ -16,7 +16,7 @@ staggered arrangement is investigated.
 - Numerical simulations (conjugate heat transfer analysis with Reynolds-Averaged Navier-Stokes equations (RANS)
 turbulent models) were carried out using commercial CFD solver ANSYS Fluent.
 
-Publications outcomes
+Publication outcomes
 - [Abraham, J. D., Dhoble, A. S., & Mangrulkar, C. K. (2020). “Numerical analysis for thermo-hydraulic
 performance of staggered cross flow tube bank with longitudinal tapered fins.” International Communications
 in Heat and Mass Transfer, 18, 104905.](https://doi.org/10.1016/j.icheatmasstransfer.2020.104905)
