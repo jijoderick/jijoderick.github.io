@@ -1,7 +1,7 @@
 ---
 title: "MECH 3780 - Computational Mechanics: part B (computational fluid dynamics)"
 collection: teaching
-type: "Tutor (Assistant) for part B (computational fluid dynamics)"
+type: "Tutor (Assistant)"
 permalink: /teaching/2023-UQ-tutoring-MECH-3780
 venue: "The University of Queensland, School of Mechanical and Mining Engineering"
 date: 2023-04-01
