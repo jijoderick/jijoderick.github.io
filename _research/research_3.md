@@ -5,7 +5,7 @@ collection: research
 ---
 
 Research type: PhD thesis work   
-Advisors: [Prof. Christopher Leonardi](https://about.uq.edu.au/experts/2881) , [Prof. Bahni Ray](https://profile.iitd.ac.in/~bray/) and [Prof. Travis Mitchell](https://about.uq.edu.au/experts/25103) 
+Advisors: [Prof. Christopher Leonardi](https://about.uq.edu.au/experts/2881) , [Prof. Bahni Ray](https://profile.iitd.ac.in/~bray/) and [Prof. Travis Mitchell](https://about.uq.edu.au/experts/25103)    
 Colloborators: [Prof. Sheikh Mohammad Shavik](https://me.buet.ac.bd/faculty/dr-sheikh-mohammad-shavik) and [Pof. Lik Chuan Lee](https://engineering.msu.edu/faculty/Lik-Chuan-Lee) 
 <img src="/images/research/biventricle.gif" width="800px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 
