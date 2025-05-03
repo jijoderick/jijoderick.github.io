@@ -6,7 +6,7 @@ collection: research
 
 <img src="/images/research/Masterswork.jpg" width="380px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 Research type: Masters thesis  
-Advisor: Prof Ashwin S Dhoble   
+Advisor: [Prof Ashwin S Dhoble](https://vnit.ac.in/engineering/mech/dr-a-s-dhoble/)   
 Contributions
 - Numerically investigated the variation of Nusselt number and friction factor for cross flow tube banks with and
 without rear side longitudinal taper fins at higher Reynolds Numbers.
