@@ -1,6 +1,6 @@
 ---
 title: "Computational analysis on the mechanics of heart failure with preserved ejection fraction (HFpEF)"
-excerpt: "PhD thesis work \\ <br/><img src='/images/research/Biventricle_schematic_diagram.png' style='width:300px;'>" 
+excerpt: "PhD thesis work <br/><img src='/images/research/Biventricle_schematic_diagram.png' style='width:300px;'>" 
 collection: research
 ---
 
