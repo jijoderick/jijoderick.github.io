@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational cardiac mechanics, UQ - IIT Delhi, 2025  
+* PhD in Computational cardiac mechanics, UQ - IIT Delhi, 2025  
   - (thesis submission within 2 months)
 * MTech in Heat Power Engineering, VNIT Nagpur, 2019,  
   - CGPA 9.53/10.00, (first rank in the university)
