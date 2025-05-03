@@ -1,13 +1,13 @@
 ---
 title: "Computational analysis on the mechanics of heart failure with preserved ejection fraction (HFpEF)"
-excerpt: "PhD thesis work <br/><img src='/images/research/Biventricle_schematic_diagram.png' style='width:300px;'>" 
+excerpt: "PhD thesis work <br/><img src='/images/research/biventricle.gif' style='width:800px;'>" 
 collection: research
 ---
 
-<img src="/images/research/Biventricle_schematic_diagram.png" width="380px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 Research type: PhD thesis work   
 Advisors: [Prof. Christopher Leonardi](https://about.uq.edu.au/experts/2881) , [Prof. Bahni Ray](https://profile.iitd.ac.in/~bray/) and [Prof. Travis Mitchell](https://about.uq.edu.au/experts/25103) 
 Colloborators: [Prof. Sheikh Mohammad Shavik](https://me.buet.ac.bd/faculty/dr-sheikh-mohammad-shavik) and [Pof. Lik Chuan Lee](https://engineering.msu.edu/faculty/Lik-Chuan-Lee) 
+<img src="/images/research/biventricle.gif" width="800px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 
 Contributions
 - Modified a computational framework consisting of a finite element (FE) model of the ventricle coupled with a
