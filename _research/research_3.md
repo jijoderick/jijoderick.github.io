@@ -27,7 +27,7 @@ dissection.” Computers in Biology and Medicine, 180, 109019.](https://www.scie
 - Abraham, J. D., Shavik, S. M., Mitchell, T. R., Lee, L. C., Ray, B., & Leonardi, C. R. (2024). “Role of
 right ventricular dysfunctions on bi-ventricular performance in the context of HFpEF”, 26th International
 Congress of Theoretical and Applied Mechanics, held at Daegu, South Korea, on 25– 30th August 2024.
-- [Abraham, J. D., Mitchell, T. R., Ray, B., & Leonardi, C. R. & Chamoli, S. (2022). “Towards modelling the
+- [Abraham, J. D., Mitchell, T. R., Ray, B., & Leonardi, C. R. (2022). “Towards modelling the
 influence of myocardium stiffening on ventricular hemodynamics and its associated impact on HFpEF.”
 Proceedings of the 23rd Australasian Fluid Mechanics Conference, held at the University of Sydney, Australia,
 on 4 – 8th December 2022.](https://www.afms.org.au/proceedings/23/Abraham_et_al_2022.pdf)
