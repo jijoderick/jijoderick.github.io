@@ -16,7 +16,7 @@ I am a final year joint PhD student at the [University of Queensland and Indian 
 
 I am about to submit my thesis within two months (by May/June 2025). Hence, I will be open for suitable post-doc positions.
 
-Research Areas
+Research areas
 ======
 Computational cardiac mechanics, finite element modelling, Computational fluid dyananimics,
 Fluid structure interaction, lattice Boltzmann method, heat transfer, FEniCS and OpenFOAM.
