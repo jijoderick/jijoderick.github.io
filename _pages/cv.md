@@ -78,8 +78,11 @@ Awards and Honors
 * Fifth rank from Cochin University of Science and Technology, for the Bachelor of Technology degree in mechanical engineering, in April 2016.
 * Ministry of Minority Affairs scholarship for bachelor's studies based on the performance in the higher secondary school examinations 2012.
 
+English Proficiency
+======
+* Obtained an overall band of 7.0 in International English Language Testing System (IELTS) conducted by IDP Education Australia Limited on 14/12/2019. (Validity expired on 13/12/2021). Individual scores are as follows: listening: 7.5, reading: 6.5, writing: 6.5, and speaking: 7.0.
   
-Service and leadership
+Service and volunteering
 ======
 * Reviewer in [Applied Thermal Engineering, Elsevier](https://www.sciencedirect.com/journal/applied-thermal-engineering).
 
