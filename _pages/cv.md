@@ -68,7 +68,7 @@ Teaching
 Awards and Honors
 ======
 * Certificate of appreciation in research story competition, organised by the research scholar forum (RSF), IIT Delhi, in September 2024.
-* Research Scholar Award, by IIT Delhi, covering expenses for attending 26th International Congress of Theoretical and Applied Mechanics, Daegu, South Korea, 25– 30th  August 2024.
+* Research Scholar Travel Award (RSTA), by IIT Delhi, covering expenses for attending 26th International Congress of Theoretical and Applied Mechanics, Daegu, South Korea, 25– 30th  August 2024.
 * Best presenter award, in higher degree by research conference organised by the school of mechanical and mining engineering, The University of Queensland, in May 2023.
 * Australasian Fluid Mechanics Society (AFMS) Student Participation Award: The award provided registration fee waiver (700 AUD) to the 24th Australasian Fluid Mechanics Conference (AFMC) held at the University of Sydney from 4 to 8th December 2022.
 * Institute medal and academic excellence award for securing the highest CGPA in the university for the master of Technology degree in heat power engineering, in September 2019.
