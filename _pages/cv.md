@@ -23,10 +23,8 @@ Work experience
 * 2019-20: Junior Research Fellow
   * VNIT Nagpur
   * Work: Fluid structure interaction solver development
-  * Supervisor: [Prof. Trushar B Gohil](https://vnit.ac.in/engineering/mech/dr-trushar-b-gohil/)
+  * Supervisor: [Prof. Trushar B Gohil](https://vnit.ac.in/engineering/mech/dr-trushar-b-gohil/)   
 
-
-  
 Skills
 ======
 * Computational cardiac mechanics
