@@ -1,5 +1,5 @@
 ---
-title: "HDR conference at School of Mechanical and Mining Engineering"
+title: "HDR conference at School of Mechanical and Mining Engineering, UQ"
 collection: talks
 type: "HDR talk"
 permalink: /talks/2023-05-04-UQ-HDR-conference
