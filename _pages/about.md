@@ -18,7 +18,7 @@ I am a final year joint PhD student at the [University of Queensland and Indian 
 
 Research areas
 ======
-Computational cardiac mechanics, finite element modelling, Computational fluid dyananimics,
+Computational cardiac mechanics, finite element modelling, Computational fluid dynamics,
 Fluid structure interaction, lattice Boltzmann method, heat transfer, FEniCS and OpenFOAM.
  
 Short bio
