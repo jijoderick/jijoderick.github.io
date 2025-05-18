@@ -27,4 +27,4 @@ I finished bachelors in mechanical engineering from [College of Engineering Thal
 
 Outside research
 ======
-Eventhough am not an expert drawer, but I like sketching. I have uploaded some of my pencil sketches in the drawing section of this website
+Eventhough am not an expert drawer, but I like sketching. I have uploaded some of my pencil sketches in the drawing section of this website.
