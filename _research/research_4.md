@@ -11,8 +11,9 @@ Research Board (SERB), Government of India.
 
 
 <img src="/images/research/Degroote_validation.png" width="800px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
-
+<!--
 <img src="/images/research/disp.gif" width="800px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
+-->
 
 <img src="/images/research/Aneurysm.png" width="800px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 
