@@ -1,6 +1,6 @@
 ---
 title: "Development of fluid-structure interaction (FSI) solver for cardiovascular disease: Aneurysm"
-excerpt: "Junior research fellowship work <br/><img src='/images/research/disp.gif' style='width:800px;'>" 
+excerpt: "Junior research fellowship work <br/><img src='/images/research/Aneurysm.png' style='width:800px;'>" 
 collection: research
 ---
 
@@ -10,6 +10,12 @@ Advisor: [Prof Trushar B Gohil](https://vnit.ac.in/engineering/mech/dr-trushar-b
 Research Board (SERB), Government of India.   
 
 <img src="/images/research/disp.gif" width="800px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
+
+<img src="/images/research/Degroote_validation.png" width="800px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
+
+<img src="/images/research/Aneurysm.png" width="800px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
+
+
 
 Contributions 
 - Implemented the hyperelastic material models, namely, Neo Hookean and Mooney Rivlin models, in the foam
