@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+<div class="wordwrap">
+  You can also find a PDF version of my CV <a href="https://drive.google.com/file/d/1vgAchrK8UDjH3ebn6xC0Uoq3rdqIc3BQ/view?usp=sharing" target="_blank" rel="noopener noreferrer">on my Google Drive</a>
+</div>
+
 
 Education
 ======
