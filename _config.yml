@@ -229,6 +229,9 @@ collections:
   drawings:
     output: true
     permalink: /:collection/:path/
+  hobbies:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -290,22 +293,25 @@ defaults:
       author_profile: true
       share: true
       comment: true      
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true 
   # _talks
   - scope:
       path: ""
       type: drawings
     values:
-      layout: drawings
+      layout: single
       author_profile: true
       share: true
+  # _hobbies
+  # _talks
+  - scope:
+      path: ""
+      type: hobbies
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+
 
 
 # Sass/SCSS
