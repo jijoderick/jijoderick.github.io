@@ -1,6 +1,6 @@
 ---
 title: "Development of fluid-structure interaction (FSI) solver for cardiovascular disease: Aneurysm"
-excerpt: "Junior research fellowship work <br/><img src='/images/research/Aneurysm.png' style='width:800px;'>" 
+excerpt: "Junior research fellowship work <br/><img src='/images/research/disp.gif' style='width:800px;'>" 
 collection: research
 ---
 
