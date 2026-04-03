@@ -11,10 +11,12 @@ redirect_from:
 
 <img src="/images/Jijo.jpg" width="380px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 
+I am a reserach officer/postdoctoral reserach fellow at the [School of Mehanical and Mining Engineering](https://mechmining.uq.edu.au/), [the university of Queensland](https://www.uq.edu.au/), Australia. I am part of computational multphysics lab lead by  [Prof. Christopher Leonardi](https://about.uq.edu.au/experts/2881), and [Prof. Travis Mitchell](https://about.uq.edu.au/experts/25103). My post doc reserach will focus of development of fluid solid coupling for applications in energy, mining, microfluidics and biomedicine. Paralley I will be working on computational cardica mechanics as well.
+
 I finished a joint PhD from the [University of Queensland and Indian institute of technology Delhi, research academy (UQIDRA)](https://uqiitd.org/). <!--, under [Prof. Christopher Leonardi](https://about.uq.edu.au/experts/2881), [Prof. Bahni Ray](https://profile.iitd.ac.in/~bray/), and [Prof. Travis Mitchell](https://about.uq.edu.au/experts/25103).--> 
 My PhD reserach focused on the understanding the underlying mechanics of heart failure with preserved ejection fraction (HFpEF) using continum mechanics based computational methods. I work on the [FEniCS](https://fenicsproject.org) based in-house finite element solvers provided by <!--my expert colloborators --> [Prof. Lik Chuan Lee](https://engineering.msu.edu/faculty/Lik-Chuan-Lee), MSU, USA and [Prof. Sheikh Mohammad Shavik](https://me.buet.ac.bd/faculty/dr-sheikh-mohammad-shavik) BUET.
 
-**I have recently defended my PhD thesis (i.e., on 18 February 2026). I am looking forward to continue research as a post doc.**
+<!--**I have recently defended my PhD thesis (i.e., on 18 February 2026). I am looking forward to continue research as a post doc.** -->
 
 Research areas
 ======
