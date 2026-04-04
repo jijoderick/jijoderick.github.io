@@ -1,6 +1,6 @@
 ---
 title: "My drawing"
-excerpt: 'Face <br/> <img src="/images/drawing/Draw-5.jpg"  style="transform: rotate(0deg) scale(0.7);">'
+excerpt: 'Face <br/> <img src="/images/drawing/Draw-5.jpeg"  style="transform: rotate(0deg) scale(0.7);">'
 collection: drawings
 ---
 
