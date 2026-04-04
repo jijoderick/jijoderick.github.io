@@ -1,6 +1,6 @@
 ---
 title: "My drawing"
-excerpt: ' <br/> <img src="/images/drawing/Draw-5.jpeg"  style="transform: rotate(0deg) scale(0.7);">'
+excerpt: 'Easter in St Lucia <br/> <img src="/images/drawing/Draw-5.jpeg"  style="transform: rotate(0deg) scale(0.7);">'
 collection: hobbies
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "My drawing"
-excerpt: ' <br/> <img src="/images/drawing/Draw-4.jpg"  style="transform: rotate(0deg) scale(0.7);">'
+excerpt: 'Sir C V Raman <br/> <img src="/images/drawing/Draw-4.jpg"  style="transform: rotate(0deg) scale(0.7);">'
 collection: hobbies
 ---
 
