@@ -15,8 +15,8 @@ redirect_from:
 
 Education
 ======
-* PhD in Computational cardiac mechanics, UQ - IIT Delhi, 2025  
-  - (thesis submission by June 2025)
+* PhD in Computational cardiac mechanics, UQ - IIT Delhi, 2026  
+  - Defended on 18 February 2026
 * MTech in Heat Power Engineering, VNIT Nagpur, 2019,  
   - CGPA 9.53/10.00, (first rank in the university)
 * BTech in Mechanical Enginering, CUSAT, 2016   
@@ -24,9 +24,14 @@ Education
 
 Work experience
 ======
+* 2026-Present Research officer/postdoctoral research fellow
+  * UQ, Brisbane (Australia)
+  * Project: Fluid-solid coupling
+  * Supervisor: [Prof Christopher Leonardi](https://about.uq.edu.au/experts/2881)
+
 * 2019-20: Junior Research Fellow
-  * VNIT Nagpur
-  * Work: Fluid structure interaction solver development
+  * VNIT Nagpur (India)
+  * Project: Fluid structure interaction solver development
   * Supervisor: [Prof. Trushar B Gohil](https://vnit.ac.in/engineering/mech/dr-trushar-b-gohil/)   
 
 Skills

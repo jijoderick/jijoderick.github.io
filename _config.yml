@@ -25,11 +25,11 @@ author:
   avatar           : "Jijo_small2.jpg" # "profile.png"
   name             : "Jijo Derick Abraham" #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in computational cardiac mechanics @ UQ IIT-D Research Academy"
-  location         : "NewDelhi, India" #"Earth"
-  employer         : "IIT Delhi" #"Your Employer"
+  bio              : "Research officer/postdoctoral research fellow at school of mechanical and mining engineering, the university of Queensland." #"PhD student in computational cardiac mechanics @ UQ IIT-D Research Academy"
+  location         : "Brisbane, Australia"#"NewDelhi, India" #"Earth"
+  employer         : "The University of Queensland"#"IIT Delhi" #"Your Employer"
   uri              : # URL
-  email            : "Jijo.Derick.Abraham@uqidar.iitd.ac.in" # "none@example.org" 
+  email            : "jijoderick.abraham@uq.edu.au" #"Jijo.Derick.Abraham@uqidar.iitd.ac.in" # "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
