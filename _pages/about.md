@@ -11,7 +11,7 @@ redirect_from:
 
 <img src="/images/Jijo.jpg" width="380px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 
-I am a research officer/postdoctoral reserach fellow at the [School of Mehanical and Mining Engineering](https://mechmining.uq.edu.au/), [the university of Queensland](https://www.uq.edu.au/), Australia. I am part of computational multphysics lab lead by  [Prof. Christopher Leonardi](https://about.uq.edu.au/experts/2881), and [Prof. Travis Mitchell](https://about.uq.edu.au/experts/25103). My post doc reserach will focus of development of fluid solid coupling for applications in energy, mining, microfluidics and biomedicine. I will also working on computational modelling of heart to unveil the mechanics of heart failure and other cardiovascular diseases.
+I am a research officer/postdoctoral research fellow at the [School of Mehanical and Mining Engineering](https://mechmining.uq.edu.au/), [the university of Queensland](https://www.uq.edu.au/), Australia. I am part of computational multphysics lab lead by  [Prof. Christopher Leonardi](https://about.uq.edu.au/experts/2881), and [Prof. Travis Mitchell](https://about.uq.edu.au/experts/25103). My post doc reserach will focus of development of fluid solid coupling for applications in energy, mining, microfluidics and biomedicine. I will also working on computational modelling of heart to unveil the mechanics of heart failure and other cardiovascular diseases.
 
 <!--**I have recently defended my PhD thesis (i.e., on 18 February 2026). I am looking forward to continue research as a post doc.** -->
 
