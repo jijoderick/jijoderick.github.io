@@ -4,8 +4,7 @@ excerpt: "PhD thesis work <br/><img src='/images/research/biventricle.gif' style
 collection: research
 ---
 
-Research type: PhD thesis work
- 
+Research type: PhD thesis work   
 Expert colloborators: [Prof. Sheikh Mohammad Shavik](https://me.buet.ac.bd/faculty/dr-sheikh-mohammad-shavik) and [Prof. Lik Chuan Lee](https://engineering.msu.edu/faculty/Lik-Chuan-Lee)
 Official Advisor: [Prof. Christopher Leonardi](https://about.uq.edu.au/experts/2881)   
 <!--Official Advisors: [Prof. Christopher Leonardi](https://about.uq.edu.au/experts/2881), [Prof. Travis Mitchell](https://about.uq.edu.au/experts/25103) and [Prof. Bahni Ray](https://profile.iitd.ac.in/~bray/)-->.           
