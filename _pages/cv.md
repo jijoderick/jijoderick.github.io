@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <div class="wordwrap">
-  You can also find a PDF version of my CV <a href="https://drive.google.com/file/d/1ilUc4jzWnVnTb1ZU0CiD8n2iZbRX-uLD/view?usp=sharing" target="_blank" rel="noopener noreferrer">on my Google Drive</a>
+  You can also find a PDF version of my CV <a href="https://drive.google.com/file/d/1r3atF2n58G-cO54QR3feG19q6B8ERZob/view?usp=sharing" target="_blank" rel="noopener noreferrer">on my Google Drive</a>
 </div>
 
 
