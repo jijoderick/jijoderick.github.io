@@ -1,7 +1,7 @@
 ---
 title: "Panelist in UQ-IIT D post PhD journey discussion"
 collection: talks
-type: "Talk"
+type: "Panel discussion"
 permalink: /talks/2026-05-09-UQIDAR_PostPhD_talk
 venue: "Online"
 date: 2026-05-09
