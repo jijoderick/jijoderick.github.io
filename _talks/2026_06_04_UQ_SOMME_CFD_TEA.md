@@ -7,7 +7,7 @@ venue: "31A-103-Social Science Building, UQ"
 date: 2026-06-04
 location: "The University of Queensland, Australia"
 ---
-#=<!--<img src="../images/gallery/2026_UQIDARpostPhD_talk.jpg" alt="title" style="display:inline-block; width:70%; vertical-align: top;">!--> 
+<img src="../images/gallery/2026_CFD_Tea_UQ_SOMME.jpg" alt="title" style="display:inline-block; width:70%; vertical-align: top;">
 
 Presented the need for containers in CFD research. Explained and demonstrated the workflow of docker and singularity containers.
 [For slides and demonstration files](https://github.com/jijoderick/CFD_Tea_discussion_UQ_SOMME_Jijo.git)
