@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2026-05-09-UQIDAR_PostPhD_talk
 venue: "Online"
 date: 2026-05-09
-location: "New Delhi, India"
+location: "Brisbane, Australia"
 ---
 <img src="../images/gallery/2026_UQIDARpostPhD_talk.jpg" alt="title" style="display:inline-block; width:70%; vertical-align: top;"> 
 
