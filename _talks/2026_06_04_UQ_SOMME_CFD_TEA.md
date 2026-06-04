@@ -9,5 +9,5 @@ location: "The University of Queensland, Australia"
 ---
 #=<!--<img src="../images/gallery/2026_UQIDARpostPhD_talk.jpg" alt="title" style="display:inline-block; width:70%; vertical-align: top;">!--> 
 
-Present on the need for containers in CFD research. Explained and demonstrated the workflow of docker and singularity containers.
+Presented the need for containers in CFD research. Explained and demonstrated the workflow of docker and singularity containers.
 [For slides and demonstration files](https://github.com/jijoderick/CFD_Tea_discussion_UQ_SOMME_Jijo.git)
