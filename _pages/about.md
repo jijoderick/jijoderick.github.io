@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 
-<img src="/images/Jijo.jpg" width="380px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
+<img src="/images/Jijo_cropped1.jpg" width="380px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 
 I am a postdoctoral research fellow at the [School of Mechanical and Mining Engineering](https://mechmining.uq.edu.au/), [the university of Queensland](https://www.uq.edu.au/), Australia, under [Prof. Christopher Leonardi](https://about.uq.edu.au/experts/2881). My post doc reserach will focus of development of fluid solid coupling for applications in energy, mining, microfluidics and biomedicine. I will also working on computational modelling of heart to unveil the mechanics of heart failure and other cardiovascular diseases.
 

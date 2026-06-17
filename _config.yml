@@ -22,7 +22,7 @@ repository               : "jijoderick/jijoderick.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Jijo_small2.jpg" # "profile.png"
+  avatar           : "Jijo_cropped1.jpg" # "profile.png"
   name             : "Jijo Derick Abraham" #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral research fellow at school of mechanical and mining engineering, the university of Queensland." #"PhD student in computational cardiac mechanics @ UQ IIT-D Research Academy"
