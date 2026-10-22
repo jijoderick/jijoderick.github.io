@@ -6,7 +6,7 @@ collection: research
 
 Research type: PhD thesis work   
 Expert colloborators: [Prof. Sheikh Mohammad Shavik, BUET](https://me.buet.ac.bd/faculty/dr-sheikh-mohammad-shavik) and [Prof. Lik Chuan Lee, Michigan State University, USA](https://engineering.msu.edu/faculty/Lik-Chuan-Lee)     
-Official Advisors: [Prof. Christopher Leonardi](https://about.uq.edu.au/experts/2881), [Prof. Travis Mitchell](https://about.uq.edu.au/experts/25103)[The university of Queeensland](https://www.uq.edu.au/) and [Prof. Bahni Ray](https://profile.iitd.ac.in/~bray/) [Indian Institue of Technology, Delhi](https://home.iitd.ac.in/).   
+Official Advisors: [Prof. Christopher Leonardi](https://about.uq.edu.au/experts/2881), [Prof. Travis Mitchell](https://about.uq.edu.au/experts/25103) [The university of Queeensland](https://www.uq.edu.au/) and [Prof. Bahni Ray](https://profile.iitd.ac.in/~bray/) [Indian Institue of Technology, Delhi](https://home.iitd.ac.in/).   
 <!--Official Advisor (primary): [Prof. Christopher Leonardi](https://about.uq.edu.au/experts/2881)-->   
           
 <img src="/images/research/biventricle.gif" width="800px" alt="Jijo Derick Abraham" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
